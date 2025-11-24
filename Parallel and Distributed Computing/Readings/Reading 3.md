@@ -33,8 +33,14 @@ Eliminate one of the four necessary conditions:
 
 ### Practical Strategies
 **Lock ordering:** Always acquire locks in a consistent global order (most common in practice)
+
+
 **Timeouts:** Use try-lock with timeouts - if you can't acquire all needed locks within a time limit, release everything and retry
+
+
 **Lock hierarchies:** Assign levels to locks and only allow acquiring locks at higher levels than currently held
+
+
 **Deadlock-free data structures:** Use lock-free algorithms (compare-and-swap, atomic operations) when possible
 
 Most real systems use a combination of prevention through lock ordering plus timeouts as a backup.
