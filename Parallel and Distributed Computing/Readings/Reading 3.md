@@ -1,18 +1,16 @@
 Alexis Baker
 
 
-10/26/2025
-
-
 Parallel and Distributed Computing
 
 
 Reading 3
 
 
-Deadlock occurs when every process is blocked from proceeding by another process that can't finish due to incorrect
-pair-matching. To fix this, you have to make sure that the processes line up with their partners correctly and are 
-sending and receiving in the proper order.
+10/26/2025
+
+
+Deadlock occurs when every process is blocked from proceeding by another process that can't finish due to incorrect pair-matching. To fix this, you have to make sure that the processes line up with their partners correctly and are sending and receiving in the proper order.
 
 **Comment from Prof. Bergman, 10/30/25:**
 Here are the main approaches to solving deadlock.
@@ -27,7 +25,7 @@ Eliminate one of the four necessary conditions:
 
 ### Avoidance (Allow deadlock conditions but avoid unsafe states)
 * Banker's Algorithm: Before granting a resource request, check if it leaves the system in a "safe state" where there's at least one execution sequence that allows all processes to complete. Conservative but can reduce concurrency.
-Detection and Recovery (Let deadlock happen, then fix it)
+* Detection and Recovery (Let deadlock happen, then fix it)
 * Detection: Periodically check for cycles in the resource allocation graph Recovery options:
   * Abort one or more processes in the cycle
   * Preempt resources from some processes
