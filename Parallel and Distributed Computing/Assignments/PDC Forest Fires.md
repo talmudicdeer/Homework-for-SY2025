@@ -35,6 +35,7 @@ Total Running time: 4.4731 seconds
 
 
 | Probability | % burned (avg) |
+| ----------- | -------------- |
 | 0.1 | 0.318750 |
 | 0.2 | 0.793750 |
 | 0.3 | 1.362500 |
@@ -47,6 +48,7 @@ Total Running time: 4.4731 seconds
 
 
 | Probability | Iterations (avg) |
+| ----------- | ---------------- |
 | 0.1 | 2.2250 |
 | 0.2 | 3.5750 |
 | 0.3 | 4.6000 |
@@ -63,6 +65,7 @@ Total Running time: 2.3090 seconds
 
 
 | Probability | % burned (avg) |
+| ----------- | -------------- |
 | 0.1 | 0.400000 |
 | 0.2 | 0.825000 |
 | 0.3 | 2.043750 |
@@ -75,6 +78,7 @@ Total Running time: 2.3090 seconds
 
 
 | Probability | Iterations (avg) |
+| ----------- | ---------------- |
 |  0.1 | 2.5750 |
 |  0.2 | 3.5250 |
 |  0.3 | 5.9250 |
@@ -91,6 +95,7 @@ Total Running time: 1.5077 seconds
 
 
 | Probability | % burned (avg) |
+| ----------- | -------------- |
 | 0.1 | 0.4531250 |
 | 0.2 | 0.8958330 |
 | 0.3 | 1.3098960 |
@@ -103,6 +108,7 @@ Total Running time: 1.5077 seconds
 
 
 | Probability | Iterations (avg) |
+| ----------- | ---------------- |
 | 0.1 | 2.739583330 |
 | 0.2 | 3.750000000 |
 | 0.3 | 4.843750000 |
@@ -119,6 +125,7 @@ Total Running time: 1.3227 seconds
 
 
 | Probability | % burned (avg) |
+| ----------- | -------------- |
 | 0.1 | 0.00300781 |
 | 0.2 | 0.00746094 |
 | 0.3 | 0.01851562 |
@@ -131,6 +138,7 @@ Total Running time: 1.3227 seconds
 
 
 | Probability | Iterations (avg) |
+| ----------- | ---------------- |
 | 0.1 | 2.1875000 |
 | 0.2 | 3.3593750 |
 | 0.3 | 5.8437500 |
@@ -149,6 +157,7 @@ processes to only 1.14 times faster between 16 and 32 processes.
 
 **When does the message passing cause the most overhead, which adds to the running time?**
 Between 0.4 and 0.5 probability.
+
 
 
 
