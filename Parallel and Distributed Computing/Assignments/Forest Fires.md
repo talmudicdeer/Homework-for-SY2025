@@ -1,4 +1,15 @@
-## Forest Fire Simulation
+Alexis Baker
+
+
+Parallel and Distributed Computing
+
+
+Forest Fire Simulation
+
+
+10/26/2025
+
+
 ### Concurrent processes: 2
 
 Total Running time: 8.3249 seconds
