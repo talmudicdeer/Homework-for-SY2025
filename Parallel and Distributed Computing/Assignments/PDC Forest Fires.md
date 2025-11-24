@@ -126,15 +126,15 @@ Total Running time: 1.3227 seconds
 
 | Probability | % burned (avg) |
 | ----------- | -------------- |
-| 0.1 | 0.00300781 |
-| 0.2 | 0.00746094 |
-| 0.3 | 0.01851562 |
-| 0.4 | 0.07804688 |
-| 0.5 | 0.40304687 |
-| 0.6 | 0.86148438 |
-| 0.7 | 0.97761719 |
-| 0.8 | 0.99496094 |
-| 0.9 | 0.99957031 |
+| 0.1 | 0.3007810 |
+| 0.2 | 0.7460940 |
+| 0.3 | 1.8515620 |
+| 0.4 | 7.8046880 |
+| 0.5 | 40.304687 |
+| 0.6 | 86.148438 |
+| 0.7 | 97.761719 |
+| 0.8 | 99.496094 |
+| 0.9 | 99.957031 |
 
 
 | Probability | Iterations (avg) |
@@ -157,6 +157,7 @@ processes to only 1.14 times faster between 16 and 32 processes.
 
 **When does the message passing cause the most overhead, which adds to the running time?**
 Between 0.4 and 0.5 probability.
+
 
 
 
