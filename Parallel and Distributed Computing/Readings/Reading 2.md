@@ -1,13 +1,14 @@
 Alexis Baker
 
 
-10/26/2025
-
-
 Parallel and Distributed Computing
 
 
 Reading 2
+
+
+
+10/26/2025
 
 
 The entire section on race conditions felt extremely over my head, but in
