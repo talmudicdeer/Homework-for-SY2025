@@ -1,7 +1,13 @@
-### Alexis Baker
-### Data Structures
-### Game 3
-### 11/13/2025
+Alexis Baker
+
+
+Data Structures
+
+
+Game 3
+
+
+11/13/2025
 
 **What are the four main methods that characterize the deque API?**
 Add, Remove, Get, and Size
