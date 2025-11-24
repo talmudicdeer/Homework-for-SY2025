@@ -75,8 +75,4 @@ public class DLList<T> {
     }
 }
 
-//Review comment by Joe Granville, 11/4/25: Interesting approach. Good job breaking the operations down into smaller,
-// shared parts. It would help to follow your reasoning if your names were more expressive -
-// especially your us and ws - but as someone who loves mathematical notation I can say you're doing it right here.
-// If you're going to use sparse names, be consistent and lean into it hard. But be prepared to bend to the conventions
-// of your team - most people nowadays struggle to follow code with cryptic or terse symbols.
+//Review comment by Joe Granville, 11/4/25: Interesting approach. Good job breaking the operations down into smaller, shared parts. It would help to follow your reasoning if your names were more expressive - especially your us and ws - but as someone who loves mathematical notation I can say you're doing it right here. If you're going to use sparse names, be consistent and lean into it hard. But be prepared to bend to the conventions of your team - most people nowadays struggle to follow code with cryptic or terse symbols.//
