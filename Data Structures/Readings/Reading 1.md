@@ -1,7 +1,7 @@
-Alexis Baker
-9/30/2025
-Data Structures
-Reading 1
+### Alexis Baker
+### 9/30/2025
+### Data Structures
+### Reading 1
 
 **What is a queue?**
 Queue is an interface that can be used to add and/or remove elements from the operation.

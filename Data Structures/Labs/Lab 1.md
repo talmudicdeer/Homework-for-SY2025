@@ -1,7 +1,7 @@
-Alexis Baker
-9/30/2025
-Data Structures
-Lab 1
+### Alexis Baker
+### 9/30/2025
+### Data Structures
+### Lab 1
 
 **What is a constructor?**
 Constructors are used to delineate new objects from the class framework. They’re
