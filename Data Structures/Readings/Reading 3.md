@@ -1,13 +1,13 @@
 Alexis Baker
 
 
-10/27/2025
-
-
 Data Structures
 
 
 Reading 3
+
+
+10/27/2025
 
 
 **What is a singly linked list (SLL)?**
