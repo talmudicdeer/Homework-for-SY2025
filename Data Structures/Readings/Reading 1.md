@@ -1,7 +1,13 @@
-### Alexis Baker
-### 9/30/2025
-### Data Structures
-### Reading 1
+Alexis Baker
+
+
+Data Structures
+
+
+Reading 1
+
+
+9/30/2025
 
 **What is a queue?**
 Queue is an interface that can be used to add and/or remove elements from the operation. A FIFO, or first-in-first-out, queue operates like a queue of humans, removing elements in
