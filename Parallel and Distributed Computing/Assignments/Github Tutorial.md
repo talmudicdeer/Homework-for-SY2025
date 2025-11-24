@@ -1,13 +1,13 @@
- Alexis Baker
- 
-
-10/26/2025
+Alexis Baker
 
 
 Parallel and Distributed Computing
 
 
 Github Tutorial Assignment
+
+
+10/26/2025
 
 
 All four criteria met.
