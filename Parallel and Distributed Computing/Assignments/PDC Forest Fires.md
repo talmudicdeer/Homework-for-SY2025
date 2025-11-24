@@ -153,11 +153,14 @@ Total Running time: 1.3227 seconds
 The amount of time reduces in scale as the number of processes increases, from 1.86 times faster between 2 and 4
 processes to only 1.14 times faster between 16 and 32 processes.
 
-
-
 **When does the message passing cause the most overhead, which adds to the running time?**
 Between 0.4 and 0.5 probability.
 
+**Comment from Prof. Bergman, 10/30/25:**
+**Key lesson:** Message passing overhead becomes significant when **the work per process becomes too small.** 
+With only 2-3 trials per process at 16 workers, the fixed costs of MPI communication and synchronization consume 
+nearly 1/3 of the runtime. This demonstrates the classic parallel computing tradeoff: more processes don't always 
+mean better performance.
 
 
 
