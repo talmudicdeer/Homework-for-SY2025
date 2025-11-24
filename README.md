@@ -1,2 +1,4 @@
-# DataStructuresFall25
-Repo for code snippets for homework and games.
+# Alexis Baker's Private Repo
+If you're reading this, you're one of the two people who *should* be looking at this.
+
+This is the repo for all of my homework pertaining to the Fall 2025 session of Data Structures and Algorithms. Categories should be self-explanatory.
