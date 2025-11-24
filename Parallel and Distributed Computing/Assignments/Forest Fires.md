@@ -1,0 +1,167 @@
+## Forest Fire Simulation
+### Concurrent processes: 2
+
+Total Running time: 8.3249 seconds
+
+
+| Probability | % burned (avg) |
+| ----------- | -------------- |
+| 0.1 | 0.468750 |
+| 0.2 | 0.587500 |
+| 0.3 | 1.143750 |
+| 0.4 | 8.168750 |
+| 0.5 | 32.07500 |
+| 0.6 | 86.38125 |
+| 0.7 | 92.75000 |
+| 0.8 | 99.58125 |
+| 0.9 | 99.91250 |
+
+
+| Probability | Iterations (avg) |
+| ----------- | ---------------- |
+| 0.1 | 2.7250 |
+| 0.2 | 2.9500 |
+| 0.3 | 4.4500 |
+| 0.4 | 12.925 |
+| 0.5 | 22.575 |
+| 0.6 | 30.500 |
+| 0.7 | 22.975 |
+| 0.8 | 22.475 |
+| 0.9 | 22.025 |
+---
+### Concurrent processes: 4
+
+Total Running time: 4.4731 seconds
+
+
+| Probability | % burned (avg) |
+| ----------- | -------------- |
+| 0.1 | 0.318750 |
+| 0.2 | 0.793750 |
+| 0.3 | 1.362500 |
+| 0.4 | 6.081250 |
+| 0.5 | 39.65625 |
+| 0.6 | 81.79375 |
+| 0.7 | 97.81250 |
+| 0.8 | 99.59375 |
+| 0.9 | 99.97500 |
+
+
+| Probability | Iterations (avg) |
+| ----------- | ---------------- |
+| 0.1 | 2.2250 |
+| 0.2 | 3.5750 |
+| 0.3 | 4.6000 |
+| 0.4 | 10.325 |
+| 0.5 | 27.475 |
+| 0.6 | 31.675 |
+| 0.7 | 24.225 |
+| 0.8 | 22.475 |
+| 0.9 | 22.000 |
+---
+### Concurrent processes: 8
+
+Total Running time: 2.3090 seconds
+
+
+| Probability | % burned (avg) |
+| ----------- | -------------- |
+| 0.1 | 0.400000 |
+| 0.2 | 0.825000 |
+| 0.3 | 2.043750 |
+| 0.4 | 6.456250 |
+| 0.5 | 35.38750 |
+| 0.6 | 87.20000 |
+| 0.7 | 97.76875 |
+| 0.8 | 99.46250 |
+| 0.9 | 99.94375 |
+
+
+| Probability | Iterations (avg) |
+| ----------- | ---------------- |
+|  0.1 | 2.5750 |
+|  0.2 | 3.5250 |
+|  0.3 | 5.9250 |
+|  0.4 | 10.750 |
+|  0.5 | 25.500 |
+|  0.6 | 30.900 |
+|  0.7 | 24.525 |
+|  0.8 | 22.425 |
+|  0.9 | 22.050 |
+---
+### Concurrent processes: 16
+
+Total Running time: 1.5077 seconds
+
+
+| Probability | % burned (avg) |
+| ----------- | -------------- |
+| 0.1 | 0.4531250 |
+| 0.2 | 0.8958330 |
+| 0.3 | 1.3098960 |
+| 0.4 | 6.2630210 |
+| 0.5 | 31.648438 |
+| 0.6 | 84.481771 |
+| 0.7 | 97.718750 |
+| 0.8 | 99.494792 |
+| 0.9 | 99.963542 |
+
+
+| Probability | Iterations (avg) |
+| ----------- | ---------------- |
+| 0.1 | 2.739583330 |
+| 0.2 | 3.750000000 |
+| 0.3 | 4.843750000 |
+| 0.4 | 11.08333333 |
+| 0.5 | 23.20833333 |
+| 0.6 | 30.39583333 |
+| 0.7 | 24.59375000 |
+| 0.8 | 22.18750000 |
+| 0.9 | 22.05208333 |
+---
+### Concurrent processes: 32
+
+Total Running time: 1.3227 seconds
+
+
+| Probability | % burned (avg) |
+| ----------- | -------------- |
+| 0.1 | 0.3007810 |
+| 0.2 | 0.7460940 |
+| 0.3 | 1.8515620 |
+| 0.4 | 7.8046880 |
+| 0.5 | 40.304687 |
+| 0.6 | 86.148438 |
+| 0.7 | 97.761719 |
+| 0.8 | 99.496094 |
+| 0.9 | 99.957031 |
+
+
+| Probability | Iterations (avg) |
+| ----------- | ---------------- |
+| 0.1 | 2.1875000 |
+| 0.2 | 3.3593750 |
+| 0.3 | 5.8437500 |
+| 0.4 | 11.203125 |
+| 0.5 | 28.421875 |
+| 0.6 | 31.359375 |
+| 0.7 | 24.468750 |
+| 0.8 | 22.453125 |
+| 0.9 | 22.156250 |
+---
+**What do you observe about the time as you double the number of processes?**
+The amount of time reduces in scale as the number of processes increases, from 1.86 times faster between 2 and 4
+processes to only 1.14 times faster between 16 and 32 processes.
+
+**When does the message passing cause the most overhead, which adds to the running time?**
+Between 0.4 and 0.5 probability.
+
+**Comment from Prof. Bergman, 10/30/25:**
+**Key lesson:** Message passing overhead becomes significant when **the work per process becomes too small.** 
+With only 2-3 trials per process at 16 workers, the fixed costs of MPI communication and synchronization consume 
+nearly 1/3 of the runtime. This demonstrates the classic parallel computing tradeoff: more processes don't always 
+mean better performance.
+
+
+
+
