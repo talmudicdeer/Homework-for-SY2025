@@ -10,10 +10,8 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Homework 1
 * Homework 2
 * Lab 5
-* Lab 6
 * Lab 7
 * Lab 8
-* Reading 4
 * Reading 5
 * Reading 6
 * Reading 7
