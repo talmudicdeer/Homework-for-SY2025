@@ -1,7 +1,14 @@
-### Alexis Baker
-### 9/30/2025
-### Data Structures
-### Lab 1
+Alexis Baker
+
+
+9/30/2025
+
+
+Data Structures
+
+
+Lab 1
+
 
 **What is a constructor?**
 Constructors are used to delineate new objects from the class framework. They’re typically invoked with `new`. The Oracle documentation uses the example of `Bicycle myBike = newBicycle(30, 0, 8)`. The new object is `myBike`, and `newBicycle` is the constructor. They look like method declarations but use the class name and don’t have a `return` condition.
