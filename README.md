@@ -11,7 +11,6 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Game 2
 * Homework 1
 * Homework 2
-* Lab 2
 * Lab 3
 * Lab 5
 * Lab 6
