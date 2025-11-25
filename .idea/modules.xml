@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructuresFall25.iml" filepath="$PROJECT_DIR$/.idea/DataStructuresFall25.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Homeworks/Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ds&amp;a-fall25.iml" filepath="$PROJECT_DIR$/.idea/ds&amp;a-fall25.iml" />
     </modules>
   </component>
 </project>
