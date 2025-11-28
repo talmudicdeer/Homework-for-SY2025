@@ -7,8 +7,6 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Week 5 Reflection
 
 ### Data Structures
-* Homework 1
-* Homework 2
 * Lab 5
 * Lab 7
 * Lab 8

@@ -1,5 +1,5 @@
 /**
-   ListArray.java
+   Lab2ListArray.java
    implement basic methods
 
    not generic, just int
