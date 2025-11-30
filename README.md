@@ -7,8 +7,6 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Week 5 Reflection
 
 ### Data Structures
-* Reading 5
-* Reading 6
 * Reading 7
 * Reading 8
 
@@ -17,4 +15,5 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Assignment: Matrix Multiplication
 * Assignment: Raspberry Pi
 * Assignment: PDC Project
-* Reading: Week 10
+* Reading: Distributed Systems
+* Reading: Random Numbers
