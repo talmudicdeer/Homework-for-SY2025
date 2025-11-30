@@ -10,6 +10,7 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Reading 5
 * Reading 6
 * Reading 7
+* Reading 8
 
 ### Parallel and Distributed Computing
 * Assignment: CUDA Introduction
