@@ -16,3 +16,5 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Assignment: CUDA Introduction
 * Assignment: Matrix Multiplication
 * Assignment: Raspberry Pi
+* Assignment: PDC Project
+* Reading: Week 10
