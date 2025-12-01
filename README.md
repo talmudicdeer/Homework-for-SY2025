@@ -7,8 +7,7 @@ This is the repo for all of my homework pertaining to the Fall 2025 session of D
 * Week 5 Reflection
 
 ### Data Structures
-* Reading 7
-* Reading 8
+All caught up!
 
 ### Parallel and Distributed Computing
 * Assignment: CUDA Introduction
