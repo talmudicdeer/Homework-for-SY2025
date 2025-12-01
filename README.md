@@ -4,7 +4,7 @@ If you're reading this, you're one of the two people who *should* be looking at 
 This is the repo for all of my homework pertaining to the Fall 2025 session of Data Structures and Algorithms. Categories should be self-explanatory.
 
 ## Still To-Do:
-* Week 5 Reflection
+
 
 ### Data Structures
 All caught up!
