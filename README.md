@@ -15,4 +15,3 @@ All caught up!
 * Assignment: Raspberry Pi
 * Assignment: PDC Project
 * Reading: Distributed Systems
-* Reading: Random Numbers
