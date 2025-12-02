@@ -30,7 +30,7 @@ Local repository is only controlled by you, remote repository is shared between 
 
 **4. What is a read-only command you can run any number of times to know the status of your local repository?**
 
-git status
+`git status`
 
 
 <ins>**PART B**</ins>
