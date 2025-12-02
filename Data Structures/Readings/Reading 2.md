@@ -36,7 +36,10 @@ O(n^2^), since `n` is being reiterated on in the while loop.
 **What questions do you have about the reading?**
 At what point does using ArrayStack become inefficient and using ArrayQueue advantageous?
 
-**Comment from Joe Granville, 10/27/25:**
+**Feedback from Joe Granville, 10/27/25:**
 Queues and stacks have different fundamental operations, so it'd be an apples-to-oranges comparison. You use a stack when you need LIFO access and a queue when the application calls for iterating in FIFO order. Both can have different types of memory structures behind them. Generally scale or other performance factors would motivate you to change representation and storage strategies, not operational characteristics like push and pop versus enqueue and dequeue.
 
 Good try on Big O. You're properly identifying that the varying values are the ones to watch for, but you're being too literal in your application. n % 10 and n /= 10 are actually **O(1) operations** in most contexts. It's the while loop that has impact on Big O here. This is actually a slightly devious example IMO. If we were just counting from 0 to n (or n to 0) it would be O(n). But the condition in the while loop interacts with the n /= 10 statement. If you keep dividing a number by another(positive) number until it gets close to zero, that's a logarithm. All the other statements are O(1).
+
+**Reponse from Alexis Baker, 10/28/25:**
+Ahhhhhh, okay, thanks for that. That one took me a lot of thinking.
