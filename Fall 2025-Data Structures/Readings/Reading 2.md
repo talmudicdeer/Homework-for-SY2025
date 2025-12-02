@@ -31,7 +31,7 @@ of the last element in the queue?**
 `j` denotes the next element to remove, `n` denotes the number of elements in the queue, and the index of the last element in the queue is `a.length-1`.
 
 **What is big-O for the following code?**
-O(n^2^), since `n` is being reiterated on in the while loop.
+O(n<sup>2</sup>), since `n` is being reiterated on in the while loop.
 
 **What questions do you have about the reading?**
 At what point does using ArrayStack become inefficient and using ArrayQueue advantageous?
