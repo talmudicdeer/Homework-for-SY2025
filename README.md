@@ -9,11 +9,12 @@ Distributed Game Playing has its own README file.
 
 
 ### Data Structures
-All caught up!
+* Lab 9 (Due **December 2nd**)
+* Reading 9 (Due **December 4th**)
 
 ### Parallel and Distributed Computing
 * Assignment: CUDA Introduction
 * Assignment: Matrix Multiplication
 * Assignment: Raspberry Pi
-* Assignment: PDC Project
-* Reading: Distributed Systems
+* Assignment: PDC Project (Due **December 14th**)
+* Reading: Distributed Systems (Due **December 7th**)
