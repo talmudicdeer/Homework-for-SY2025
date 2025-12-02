@@ -3,7 +3,7 @@ If you're reading this, you're one of the few people who *should* be looking at 
 
 This is the repo for all of my homework pertaining to my programs and their threads for the school year 2025-26. Categories should be self-explanatory.
 
-Digital Game Playing has its own README file.
+Distributed Game Playing has its own README file.
 
 ## Still To-Do:
 
