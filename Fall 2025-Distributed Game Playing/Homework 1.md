@@ -23,4 +23,4 @@ Can the directional array be even more delineated (more directions added) withou
 How would you add more piece types?
 
  
-**Github username: talmudicdeer **
+**Github username: talmudicdeer**
