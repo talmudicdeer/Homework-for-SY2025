@@ -31,3 +31,17 @@ Specifically, the lecture in question says:
 
 > A faster but often misused alternative is multiplicative hashing, in which the hash index is computed as ⌊*m* * frac(*ka*)⌋. Here *k* is again an integer hash code, *a* is a real number and frac is the function that returns the fractional part of a real number. Multiplicative hashing sets the hash index from the fractional part of multiplying *k* by a large real number. It's faster if this computation is done using fixed point rather than floating point, which is accomplished by computing (*ka/2q*) % *m* for appropriately chosen integer values of *a*, *m*, and *q*. So *q* determines the number of bits of precision in the fractional part of *a*....
 > In the fixed-point version, The division by *2^q^* is crucial. The common mistake when doing multiplicative hashing is to forget to do it, and in fact you can find web pages highly ranked by Google that explain multiplicative hashing without this step. Without this division, there is little point to multiplying by *a*, because *ka % m* = (*k % m*) * (*a % m*) % *m*. This is no better than modular hashing with a modulus of *m*, and quite possibly worse.
+
+
+**Feedback from Prof. Weiss, 11/29/25:**
+Could you give me a ref to the article you read?
+
+
+Usually fixed point computation is done by multiplying by a power of 2 and then truncating. 
+
+
+In general, integer mult can be slower than float mult.
+
+
+**Response from Alexis Baker, 11/30/25:**
+[https://www.cs.cornell.edu/courses/cs3110/2015sp/lectures/14/lec14.html]
