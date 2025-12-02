@@ -44,4 +44,4 @@ In general, integer mult can be slower than float mult.
 
 
 **Response from Alexis Baker, 11/30/25:**
-[https://www.cs.cornell.edu/courses/cs3110/2015sp/lectures/14/lec14.html]
+(https://www.cs.cornell.edu/courses/cs3110/2015sp/lectures/14/lec14.html)
