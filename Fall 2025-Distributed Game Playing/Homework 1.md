@@ -12,7 +12,7 @@ Homework 1
 
 **Question 1:**
 
-What kind of loop is try{} and catch{}?
+What kind of loop is `try{}` and `catch{}`?
 
 **Question 2:**
 
