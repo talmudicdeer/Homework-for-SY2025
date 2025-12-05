@@ -20,3 +20,19 @@ Distributed Game Playing has its own README file.
 * Assignment: Raspberry Pi
 * Assignment: PDC Project (Due **December 14th**)
 * Reading: Distributed Systems (Due **December 7th**)
+
+### Academic Progress
+* Update my Academic Statement (**due at the end of Spring quarter**)
+* Self-Evaluations to be completed:
+   * Data Structures and Algorithms
+   * Distributed Game Playing (Fall quarter)
+   * Bio-inspired Robotics
+   * Neural Networks
+   * Cyanotype Animation
+   * Indigenous Stewardship of Marine Resources
+   * Practice of Organic Farming
+   * Unmasking the Material World
+   * Barely Modern
+   * Inventing the Citizen
+* Self-Evaluations to be updated:
+   * Computer Science Foundations
