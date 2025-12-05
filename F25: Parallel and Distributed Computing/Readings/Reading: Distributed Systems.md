@@ -1,0 +1,30 @@
+Alexis Baker
+
+
+Parallel and Distributed Computing
+
+
+Reading: Distributed Systems
+
+
+12/05/2025
+
+
+A significant portion of the reading was dedicated to failure, different types of it, and how to account for it. This made sense to me in the context of system design. Of particular emphasis was the quote from the interview with Ken Arnold, quoted here:
+
+> Failure is the defining difference between distributed and local programming, so you have to design distributed systems with the expectation of failure. Imagine asking people, "If the probability of something happening is one in 10<sup>13</sup>, how often would it happen?" Common sense would be to answer, "Never." That is an infinitely large number in human terms. But if you ask a physicist, she would say, "All the time. In a cubic foot of air, those things happen all the time."
+
+When you design distributed systems, you have to say, "Failure happens all the time." So when you design, you design for failure. It is your number one concern. What does designing for failure mean? One classic problem is partial failure. If I send a message to you and then a network failure occurs, there are two possible outcomes. One is that the message got to you, and then the network broke, and I just didn't get the response. The other is the message never got to you because the network broke before it arrived.
+
+So if I never receive a response, how do I know which of those two results happened? I cannot determine that without eventually finding you. The network has to be repaired or you have to come up, because maybe what happened was not a network failure but you died. How does this change how I design things? For one thing, it puts a multiplier on the value of simplicity. The more things I can do with you, the more things I have to think about recovering from.
+
+
+In cybernetics, we refer to what he's talking about when he says "Imagine asking people, "If the probability of something happening is one in 10<sup>13</sup>, how often would it happen?"" as **variety**. In _Designing Freedom,_ Beer defines variety as the number of possible states in a system. (For added context, what Beer is talking about when he says 'system' and what the text is referring to when it says 'system' are two different things, but not wholly unrelated; the text is talking about systems of data transfer and organization, while systems in cybernetics are systems as a whole, whether mechanical like computers or data systems, biological like lifeforms or ecological networks, or even societal systems of organization.)
+
+But back to my point. Variety in a cybernetic system isn't something to avoid or encourage, it is merely present and therefore something that must be accounted for. Beer describes our societal systems, like government, as high-variety systems, where there are constant perturbations to keep track of. The more variety there is in a system, the more difficult it is to account for, since there are many, many possible states for it to exist in given the level of human decision involved.
+
+It's similar in a data system. I would call data structures medium-variety systems, but the more complex ones can also be high-variety depending on their scope. If we look at something like Gosplan, the USSR's planning board, that would absolutely qualify as a high-variety system, because data had to be accumulated from every factory and farm in the country, collated by the people working there and then subsequently by every organizational body up the ladder, and processed by the central board into a plan. It was especially high-variety because for decades, data had to be transmitted and collated by hand; while outside the scope of this assignment, the extremely fierce debates about computerization in the 1960s are interesting to look at, and in hindsight we could probably say that if Gosplan had computerized, a lot of the technical issues and economic stagnation the USSR experienced in the 1970s might not have happened due to the consequent decrease in variety. (Variety decreasing because the number of possible states of existence within the system would decrease thanks to the work of algorithms.) Beer's own work with Chile's Cybersyn program offers a tantalizing glimpse as to what that would have looked like, before it was tragically cut short.
+
+A more contemporaneous high-variety data system would probably be something like Amazon's AWS. While on the face it may not look like a high-variety system, given that it's centralized, computerized (obviously), and based on processes that happen without human interaction, it is not an autonomous system. It does not write its own programming. Instead, its operation is dependent on the work of what are, at the base of it, translators, converting English into a language that is structured like a language we would speak with our voices or hands--computer languages have syntax, grammar, even dialects--but uses 'words' that are completely alien to people who have never studied them before, and indeed, are completely alien to many who _have_ studied them before; you might as well be asking someone who has never encountered a language other than their own to look at a document in an ideographic language like Chinese and tell you what they think it says. As a consequence, the variety within the system skyrockets, because its entire base is based on a combination of well-educated guesswork (much like translation in general) as well as prior existing rules and infrastructures, like a technological version of the British constitution. When one translation is wrong, or one rule or struct forgotten about (or just not included at all), as we've seen recently, that can cause catastrophic problems that are then felt worldwide.
+
+In summary, failure, which is the accumulation and improper disbursement of variety within a system, is not something we can ever hope to eliminate completely within a data system; we can only hope to design subsystems that can account for it, and mitigate its effects.
