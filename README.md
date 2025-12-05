@@ -19,7 +19,6 @@ Distributed Game Playing has its own README file.
 * Assignment: Matrix Multiplication
 * Assignment: Raspberry Pi
 * Assignment: PDC Project (Due **December 14th**)
-* Reading: Distributed Systems (Due **December 7th**)
 
 ### Academic Progress
 * Update my Academic Statement (**due at the end of Spring quarter**)
