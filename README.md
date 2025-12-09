@@ -20,6 +20,9 @@ Distributed Game Playing has its own README file.
 * Assignment: Raspberry Pi
 * Assignment: PDC Project (Due **December 14th**)
 
+
+## Not Required:
+
 ### Academic Progress
 * Update my Academic Statement (**due at the end of Spring quarter**)
 * Self-Evaluations to be completed:
