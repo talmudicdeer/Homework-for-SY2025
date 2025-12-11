@@ -9,6 +9,7 @@ Distributed Game Playing has its own README file.
 
 
 ### Data Structures
+* Game 4
 * Homework 4
 * Lab 9
 * Lab 9b
