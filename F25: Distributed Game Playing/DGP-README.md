@@ -13,7 +13,6 @@ All of my assignments for this will still be in the DGP repo and will continue t
 * Quiz Week 5
 
 ## Still To Do:
-* Homework 2 (pseudocode only)
 * Homework 4
 * Homework 5
 * Homework 6
