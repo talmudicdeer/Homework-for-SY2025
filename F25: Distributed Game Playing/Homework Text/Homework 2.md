@@ -47,4 +47,25 @@ Where are your pseudocode statements for this part?
 Submitted the screenshots to the designated place about five minutes ago. Completely blanked on the pseudocode statements, will get those in before class.
 
 
-### Additional Submission (on to-do list)
+### Additional Submission: Pseudocode
+
+
+**Painting**
+```
+if tile color of current location != team color:
+    if can paint:
+        paint the current location
+```
+
+
+**Sensing and Saving the Home Tower**
+```
+if (home tower location is not yet saved):
+    home tower location = sense closest friendly tower()
+```
+
+
+```
+if (remaining paint <= distance to home tower):
+    move toward home tower location)
+```
