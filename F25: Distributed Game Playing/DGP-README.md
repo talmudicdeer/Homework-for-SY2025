@@ -8,6 +8,7 @@ All of my assignments for this will still be in the DGP repo and will continue t
 * Homework 1
 * Homework 2
 * Homework 3
+* Homework 8
 * Homework 10
 * Quiz Week 2
 * Quiz Week 5
@@ -17,6 +18,5 @@ All of my assignments for this will still be in the DGP repo and will continue t
 * Homework 5
 * Homework 6
 * Homework 7
-* Homework 8
 * Homework 9
 * Homework 11
