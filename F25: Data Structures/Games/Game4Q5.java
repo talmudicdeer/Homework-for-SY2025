@@ -13,7 +13,7 @@ public class BST3 {
         if (val < this.val && left != null) {
             return left.contains(val);
         }
-    else if (val > this.val && right != null) {
+        else if (val > this.val && right != null) {
             return right.contains(val);
         }
     }
