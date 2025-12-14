@@ -14,6 +14,8 @@ Distributed Game Playing has its own README file.
 * Lab 9
 * Lab 9b
 * Reading 9
+* Self-Evaluation
+
 
 ### Parallel and Distributed Computing
 * Assignment: CUDA Introduction
@@ -27,7 +29,6 @@ Distributed Game Playing has its own README file.
 ### Academic Progress
 * Update my Academic Statement (**due at the end of Spring quarter**)
 * Self-Evaluations to be completed:
-   * Data Structures and Algorithms
    * Distributed Game Playing (Fall quarter)
    * Bio-inspired Robotics
    * Neural Networks
