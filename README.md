@@ -12,7 +12,6 @@ Distributed Game Playing has its own README file.
 ### Data Structures
 * Lab 9
 * Lab 9b
-* Reading 9
 
 
 ### Parallel and Distributed Computing
