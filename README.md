@@ -16,7 +16,6 @@ Caught up!
 ### Parallel and Distributed Computing
 * Assignment: CUDA Introduction
 * Assignment: Matrix Multiplication
-* Assignment: Raspberry Pi
 * Assignment: PDC Project
 
 
