@@ -10,7 +10,7 @@ Distributed Game Playing has its own README file.
 * Prof Evaluation
 
 ### Data Structures
-* Lab 9b
+Caught up!
 
 
 ### Parallel and Distributed Computing
