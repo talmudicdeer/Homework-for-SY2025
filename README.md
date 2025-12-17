@@ -10,7 +10,6 @@ Distributed Game Playing has its own README file.
 * Prof Evaluation
 
 ### Data Structures
-* Lab 9
 * Lab 9b
 
 
@@ -18,7 +17,7 @@ Distributed Game Playing has its own README file.
 * Assignment: CUDA Introduction
 * Assignment: Matrix Multiplication
 * Assignment: Raspberry Pi
-* Assignment: PDC Project (Due **December 14th**)
+* Assignment: PDC Project
 
 
 ## Not Required:
