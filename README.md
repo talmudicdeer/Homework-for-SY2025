@@ -14,7 +14,7 @@ Caught up!
 
 
 ### Parallel and Distributed Computing
-* Assignment: PDC Project
+Caught up!
 
 
 ## Not Required:
