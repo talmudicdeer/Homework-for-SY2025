@@ -6,15 +6,7 @@ This is the repo for all of my homework pertaining to my programs and their thre
 Distributed Game Playing has its own README file.
 
 ## Still To-Do:
-* Self-Evaluation
 * Prof Evaluation
-
-### Data Structures
-Caught up!
-
-
-### Parallel and Distributed Computing
-Caught up!
 
 
 ## Not Required:
