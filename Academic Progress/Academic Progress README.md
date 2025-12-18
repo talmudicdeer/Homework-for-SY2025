@@ -9,5 +9,3 @@
   - Unmasking the Material World
   - Barely Modern
   - Inventing the Citizen
-- Self-Evaluations to be updated:
-  - Computer Science Foundations
