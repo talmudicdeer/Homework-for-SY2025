@@ -3,33 +3,9 @@ If you're reading this, you're one of the few people who *should* be looking at 
 
 This is the repo for all of my homework pertaining to my programs and their threads for the school year 2025-26. Categories should be self-explanatory.
 
-Distributed Game Playing has its own README file.
+To keep my folders displayed in the proper order, since Fall-Winter-Spring would yield inaccurate ordering, I'm using Q1 to denote Fall Quarter, Q2 to denote Winter Quarter, and Q3 to denote Spring Quarter. If I choose to upload all of my work from all of my years at Evergreen onto here, I will be using the year that the academic year started in as the marker.
+
+Academic Progress has its own README file.
 
 ## Still To-Do:
-* Self-Evaluation
-* Prof Evaluation
-
-### Data Structures
-Caught up!
-
-
-### Parallel and Distributed Computing
-Caught up!
-
-
-## Not Required:
-
-### Academic Progress
-* Update my Academic Statement (**due at the end of Spring quarter**)
-* Self-Evaluations to be completed:
-   * Distributed Game Playing (Fall quarter)
-   * Bio-inspired Robotics
-   * Neural Networks
-   * Cyanotype Animation
-   * Indigenous Stewardship of Marine Resources
-   * Practice of Organic Farming
-   * Unmasking the Material World
-   * Barely Modern
-   * Inventing the Citizen
-* Self-Evaluations to be updated:
-   * Computer Science Foundations
+DONE!
