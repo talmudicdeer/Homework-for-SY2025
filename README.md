@@ -5,7 +5,7 @@ This is the repo for all of my homework pertaining to my programs and their thre
 
 To keep my folders displayed in the proper order, since Fall-Winter-Spring would yield inaccurate ordering, I'm using Q1 to denote Fall Quarter, Q2 to denote Winter Quarter, and Q3 to denote Spring Quarter. If I choose to upload all of my work from all of my years at Evergreen onto here, I will be using the year that the academic year started in as the marker.
 
-Academic Progress have their own README files.
+Academic Progress has its own README file.
 
 ## Still To-Do:
 DONE!
