@@ -7,5 +7,24 @@ To keep my folders displayed in the proper order, since Fall-Winter-Spring would
 
 Academic Progress has its own README file.
 
-## Still To-Do:
-DONE!
+## To-Do:
+
+
+### Student-Originated Studies: Farm Management, Data and Automation
+
+Nothing yet!
+
+
+### Distributed Game Playing in Java
+
+Nothing yet!
+
+
+### Introduction to Biology - The Secret of Life
+
+- Course Information
+- Entrance Survey
+- Unit: Introduction and the Biochemistry of Life
+  - Learning Sequence: Introduction to Biology
+  - Learning Sequence: Biochemistry of Life
+  - Cerego Memory Set: Biochemistry
