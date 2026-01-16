@@ -12,19 +12,19 @@ Academic Progress has its own README file.
 
 ### Student-Originated Studies: Farm Management, Data and Automation
 
-Nothing yet!
+- Week 2 Discussion post
 
 
 ### Distributed Game Playing in Java
 
-Nothing yet!
+- Homework: Week 1
 
 
 ### Introduction to Biology - The Secret of Life
 
-- Course Information
-- Entrance Survey
-- Unit: Introduction and the Biochemistry of Life
-  - Learning Sequence: Introduction to Biology
-  - Learning Sequence: Biochemistry of Life
-  - Cerego Memory Set: Biochemistry
+- Unit: Biochemistry - Proteins, Enzymes, and Glycolysis
+  - Learning Sequence: Proteins and Protein Structure
+  - Learning Sequence: Enzymes and Other Amazing Machines
+  - Learning Sequence: Glycolysis
+  - Cerego Memory Set: Amino Acids
+  - Problem Set: Biochemistry
