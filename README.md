@@ -7,12 +7,12 @@ To keep my folders displayed in the proper order, since Fall-Winter-Spring would
 
 Academic Progress has its own README file.
 
-## To-Do:
+# To-Do:
 
 
-### Student-Originated Software
+## Student-Originated Software
 
-## Operating Systems
+### Operating Systems
 
 - Reading 1
 - Lab 1
