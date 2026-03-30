@@ -10,21 +10,9 @@ Academic Progress has its own README file.
 ## To-Do:
 
 
-### Student-Originated Studies: Farm Management, Data and Automation
+### Student-Originated Software
 
-- Week 2 Discussion post
+## Operating Systems
 
-
-### Distributed Game Playing in Java
-
-- Homework: Week 1
-
-
-### Introduction to Biology - The Secret of Life
-
-- Unit: Biochemistry - Proteins, Enzymes, and Glycolysis
-  - Learning Sequence: Proteins and Protein Structure
-  - Learning Sequence: Enzymes and Other Amazing Machines
-  - Learning Sequence: Glycolysis
-  - Cerego Memory Set: Amino Acids
-  - Problem Set: Biochemistry
+- Reading 1
+- Lab 1
