@@ -32,3 +32,10 @@ Reading 3
 
 
 9. **What questions do you have about the reading?** What are some cybersecurity concerns with MLFQ schedulers specifically?
+
+
+**Feedback from Joe Granville, 4/13/2026:** "Starvation" for a process is when it never gets the resource it needs to proceed. This isn't necessarily a system-wide condition, nor is it specific to the CPU. "Starvation" is just when a process is never unblocked/unscheduled because of a resource distribution policy neglecting it. What the book is describing is a narrowly qualified instance of how starvation might occur under a naive CPU scheduling policy. Real OSes don't fall into this trap - or at least, designers have seen past it for a long time. It's mostly a theoretical problem that safeguard against when deriving new OS strategies.
+
+I think schedulers have two major modes of vulnerability. One is gameability/resource denial - if you know what the schedule is looking for, you can spam it and be a nuisance to the rest of the system. The other is less trivial - information leakage. By watching what queue processes are assigned to, it's possible to develop information about what the process does - if it's a frequent blocker, if it uses I/O and interactive input, etc.
+
+A more subtle, and probably more serious, form of information leakage comes from how the scheduler can see into scheduled process' code and execution trace. A process' trace on its own can imply the presence of complex operations (like cryptographic routines) based on the memory locality and number of operations that are optimized in ways characteristic of mathematic/numeric functions (like having few or no I/O calls but a lot of arithmetic/logic). Because MLFQ schedulers aggressively analyze processes to try to squeeze out optimizations, their decisions leak and imply a lot of detailed information about what processes do (and amplify signals that are already leaked by other parts of the OS). Of course, none of that is directly exposed - but through statistical/evidence-gathering methods you can develop estimates with a high degree of accuracy.
