@@ -24,3 +24,10 @@ Reading 2
 
 
 7. **What questions do you have about the reading?** Where does exec() come into play in all of this?
+
+
+**Feedback from Joe Granville, 4/13/2026:** When `exec()` is called, the kernel overwrites the process' memory to put the new executable in place, and it resets the stack, heap and data segments to the starting state the executable expects. Essentially everything in the process' RAM allocation is reset. But OS-level process details, like file descriptors, privileges, environment variables, etc., are all retained.
+
+When preparing to `exec()`, `fork()` is essentially using the current/parent process as a template. The child process can then carry out setup steps before it calls `exec()`. Once the data structure that is the "process" is configured properly, we use `exec()` to put the actual executable into it and tell it to go.
+
+This lets us run programs without requiring them to know lots of details about the host operating system (to "depend" on the OS), and is part of what helped the POSIX standard make code useful/maintainable across numerous different proto-Unix OSes, which were often quite different under the hood.
