@@ -23,3 +23,13 @@ Reading 1
 
 
 6. **What questions do you have about the reading?** At what point do abstractions start being more of a hindrance than a help? This is something I've been thinking about for a while as I've been using Linux as my daily driver since about November. It's also something I've been thinking about in non-computer science-related topics, like education, or the functioning of a state as an organism.
+
+
+**Feedback from Joe Granville, 4/13/2026:** I'd say it's not a question of when abstractions become a hindrance, but when they become a necessity. You can only deal with so many concrete details at once. The history of human knowledge is abstraction - the search for symmetries in the face of overwhelming detail.
+
+
+**Feedback from Joe Granville, 4/13/2026:** Thinking more about your question, I should qualify my response better. You can't totally get away from abstractions, practically speaking - software is an abstraction over the machine architecture, which is an abstraction over the behavior of the constituent electronic components, which are usually themselves reasoned about in terms of abstractions over their physical/electrical properties.
+
+But abstraction can get in the way of specific responsibilities. An example is trying to use a high-level file writer utility - like Python's `csvwriter`, or a database ORM ("object relational mapper") to write really large volumes of data. These utilities are meant for general use, and they hide the way that reads and writes happen with the data backing those forms of storage.
+
+For the general use case, this works fine. But because the operations are opaque, you can't see why or how the implementation strains when you throw really big writes at it. Those abstractions can become silent, and seemingly arbitrary, bottlenecks. But the problem is usually less abstraction in and of itself, but choosing an "abstraction" instance that behaves inappropriately or obfuscates details of the problem you're trying to solve.
