@@ -13,7 +13,7 @@ Game 1
 1. **[3] Describe what `fork()` and `exec()` do. Explain how they work together.** `fork()` produces a nearly identical copy of the program, practically indistinguishable to the operating system; the process doing the calling is the parent, the created process the child. `exec()` is the function to execute a program. When preparing to call `exec()`, the `fork()` processes are using the parent/child process as a template; the child can then carry out the setup steps to calling `exec()`.
 
 
-2. **[2] Which code is executed by the child after the fork?**
+2. **[2] Which code is executed by the child after the fork?** The child would run the code in the `else{}` block.
 
 ```c
 rc = fork();
@@ -28,8 +28,6 @@ else if (rc > 0) {
   printf ("case c\n");
 }
 ```
-
-The child would run the code in the `else{}` block.
 
 
 3. **[1] What does the `wc` command do in Linux?** `wc` is the command line utility to count the number of newlines, words, characters, etc.
