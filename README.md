@@ -14,16 +14,26 @@ Academic Progress has its own README file.
 
 ### Operating Systems
 
+- Game 2
+- Homework 1
 - Lab 1
 - Lab 2
+- Lab 3
+- Lab 4
+- Reading 4
+- Reading 5
+
 
 ### Data Science
 
+- Lab 1 (ZyLab 2.14)
+- Lab 2 (ZyLab 3.10)
+- Lab 3 (ZyLab 5.11)
+- Lab 4 (ZyLab 6.11)
 - Reading 1
 - Reading 2
 - Reading 3
-- Lab 1 (ZyLab 2.14)
-- Lab 2 (ZyLab 3.10)
+- Reading 4
 
 
 ### Databases
@@ -31,5 +41,9 @@ Academic Progress has its own README file.
 - Reading 1
 - Reading 2
 - Reading 3
+- Reading 4
 - Lab 1 (ZyLab 17.19)
 - Lab 2 (ZyLab 18.15)
+- Lab 3 (ZyLab 19.13)
+- Lab 4 (ZyLab 20)
+- Lab 5 (ZyLab 20.8)
