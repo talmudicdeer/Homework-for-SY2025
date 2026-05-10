@@ -13,7 +13,7 @@ Game 2
 **[6]**
 
 
-**1. [2] Describe what fork() and exec() do. Explain how they work together.**
+**1. [2] Describe what fork() and exec() do. Explain how they work together.** 
 
 
 **2. [2] When fork() is called, what is the value that is returned to the child process?**
