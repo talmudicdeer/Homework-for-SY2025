@@ -14,7 +14,7 @@ Academic Progress has its own README file.
 
 ### Operating Systems
 
-- Game 2
+
 - Game 3
 - Homework 1
 - Lab 1
