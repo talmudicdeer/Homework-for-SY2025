@@ -17,6 +17,6 @@ Game 3
 **2. What does the TLB do in terms of addresses?** Speeds up conversion of virtual addresses to physical ones.
 
 
-**3. What is a MLFQ?** 
+**3. What is a Multi-Level Feedback Queue (MLFQ)?** Priority queuing system that operates off two fundamental principles: if Priority A will give up its CPU allotment before Priority B, it goes first; and if the two are equal, the processes are run concurrently with round robin.
 
-**If a process does frequent I/O, should it have high priority or low priority? Explain.**
+**If a process does frequent I/O, should it have high priority or low priority? Explain.** Depends on when it uses up its CPU allotment.
