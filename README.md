@@ -23,11 +23,6 @@ Academic Progress has its own README file.
 - Lab 6
 - Lab 7
 - Lab 8
-- Reading 4
-- Reading 5
-- Reading 6
-- Reading 7
-- Reading 8
 - Workshop 5
 - Workshop 8
 
