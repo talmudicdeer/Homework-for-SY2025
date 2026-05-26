@@ -39,3 +39,10 @@ Reading 3
 I think schedulers have two major modes of vulnerability. One is gameability/resource denial - if you know what the schedule is looking for, you can spam it and be a nuisance to the rest of the system. The other is less trivial - information leakage. By watching what queue processes are assigned to, it's possible to develop information about what the process does - if it's a frequent blocker, if it uses I/O and interactive input, etc.
 
 A more subtle, and probably more serious, form of information leakage comes from how the scheduler can see into scheduled process' code and execution trace. A process' trace on its own can imply the presence of complex operations (like cryptographic routines) based on the memory locality and number of operations that are optimized in ways characteristic of mathematic/numeric functions (like having few or no I/O calls but a lot of arithmetic/logic). Because MLFQ schedulers aggressively analyze processes to try to squeeze out optimizations, their decisions leak and imply a lot of detailed information about what processes do (and amplify signals that are already leaked by other parts of the OS). Of course, none of that is directly exposed - but through statistical/evidence-gathering methods you can develop estimates with a high degree of accuracy.
+
+
+**Feedback from Joe Granville 4/14/2026:** I made a typo there, instead of "never unblocked/unscheduled" I should have said "never unblocked/goes unscheduled" or just "never unblocked/scheduled". I've been sick and kind of foggy.
+
+Likewise, I should have said "a theoretical problem to safeguard against".
+
+I made other typos but these two had some meaning associated with them.
