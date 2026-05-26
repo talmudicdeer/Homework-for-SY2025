@@ -29,3 +29,5 @@ Reading 5
 
 
 **8. What questions do you have about the reading?** Wouldn't worst-fit also risk infrag?
+
+**Feedback from Joe Granville, 05/24:** Yes and no. Below a certain memory occupancy threshold, worst-fit can actually work quite well for amortized performance, because it leaves you with maximally large fragments instead of creating tiny snips the way best-fit tends to.
