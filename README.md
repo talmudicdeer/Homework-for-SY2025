@@ -23,8 +23,8 @@ Academic Progress has its own README file.
 - Lab 6
 - Lab 7
 - Lab 8
-- Workshop 5
-- Workshop 8
+- Workshop 1
+- Workshop 2
 
 
 ### Data Science
@@ -33,6 +33,7 @@ Academic Progress has its own README file.
 - Lab 2 (ZyLab 3.10)
 - Lab 3 (ZyLab 5.11)
 - Lab 4 (ZyLab 6.11)
+- Lab 5 (Zylab 7.10)
 - Reading 1
 - Reading 2
 - Reading 3
@@ -46,7 +47,6 @@ Academic Progress has its own README file.
 - Reading 2
 - Reading 3
 - Reading 4
-- Reading 6
 - Lab 1 (ZyLab 17.19)
 - Lab 2 (ZyLab 18.15)
 - Lab 3 (ZyLab 19.13)
