@@ -29,3 +29,6 @@ Reading 7
 
 
 **8. What questions do you have about the reading?** Doesn't spin-wait bring up heightened risks for deadlock?
+
+
+**Feedback from Joe Granville, 05/24:** I don't think so. Deadlocks are really more dependent on the logical relationships of the waiting conditions than they are determined by how waiting is implemented. You're really just changing where the code would be while stuck, not the odds of writing code that will become stuck.
