@@ -10,7 +10,7 @@ Game 5
 6/3/2026
 
 
-**1. What is a mutex?**
+**1. What is a mutex?** A mutex is a property that prevents critical sections of code from being accessed concurrently.
 
 
 **2. What is a condition variable, and what is one situation where it could be used?**
