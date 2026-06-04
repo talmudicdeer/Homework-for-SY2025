@@ -23,6 +23,8 @@ Academic Progress has its own README file.
 - Lab 6
 - Lab 7
 - Lab 8
+- Lab 9
+- Lab 10
 - Workshop 1
 - Workshop 2
 
@@ -39,10 +41,13 @@ Academic Progress has its own README file.
 - Reading 3
 - Reading 4
 - Reading 5
+- Reading 6
+- Project
 
 
 ### Databases
 
+- Get SQLLite and Install
 - Reading 1
 - Reading 2
 - Reading 3
@@ -52,3 +57,4 @@ Academic Progress has its own README file.
 - Lab 3 (ZyLab 19.13)
 - Lab 4 (ZyLab 20)
 - Lab 5 (ZyLab 20.8)
+- Homework 1
