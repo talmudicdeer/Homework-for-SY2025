@@ -7,9 +7,6 @@ Operating Systems
 Lab 6
 
 
-05/08/2026
-
-
 For this lab I wrote Hello World:
 
 ```c

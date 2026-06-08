@@ -7,9 +7,6 @@ Operating Systems
 Lab 7
 
 
-05/13/2026
-
-
 So here we have the program using only `pthread_create`, no `pthread_join` yet. I called it `threads_only`.
 
 ```c

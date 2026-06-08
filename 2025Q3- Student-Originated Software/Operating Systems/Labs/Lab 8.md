@@ -7,8 +7,6 @@ Operating Systems
 Lab 8
 
 
-05/20/2026
-
 For this lab, I did questions 1 and 2.
 
 
