@@ -7,6 +7,8 @@ Data Science
 Lab 1 (Zylab 2.14)
 
 
+**Score:** 4/10
+
 `main.py`
 
 ```python
