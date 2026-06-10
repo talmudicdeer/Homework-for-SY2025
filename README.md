@@ -12,49 +12,5 @@ Academic Progress has its own README file.
 
 ## Student-Originated Software
 
-### Operating Systems
 
-
-- Lab 1
-- Lab 2
-- Lab 3
-- Lab 4
-- Lab 5
-- Lab 6
-- Lab 7
-- Lab 8
-- Lab 9
-- Lab 10
-- Workshop 1
-- Workshop 2
-
-
-### Data Science
-
-- Lab 1 (ZyLab 2.14)
-- Lab 2 (ZyLab 3.10)
-- Lab 3 (ZyLab 5.11)
-- Lab 4 (ZyLab 6.11)
-- Lab 5 (Zylab 7.10)
-- Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
-- Reading 6
-- Project
-
-
-### Databases
-
-- Get SQLLite and Install
-- Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Lab 1 (ZyLab 17.19)
-- Lab 2 (ZyLab 18.15)
-- Lab 3 (ZyLab 19.13)
-- Lab 4 (ZyLab 20)
-- Lab 5 (ZyLab 20.8)
-- Homework 1
+ALL ASSIGNMENTS COMPLETE!!!!!!!
