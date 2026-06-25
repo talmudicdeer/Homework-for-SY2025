@@ -9,21 +9,21 @@ Homework 1
 
 ### Part 1
 
-**Synthesis/Reflection:**
+**Synthesis/Reflection:** Well, it's my first formal neuroscience course, so there's a whole lot of New. One of the things I've always liked about science is seeing things I learned previously take on new forms in different subjects, and this is no exception. It was really special being able to connect the construction of neurons and the general scope of the nervous system to how I innately see the world, that is, as a gigantic network of recursive systems.
 
 
 **Question 1. For each of the following (a – d), indicate whether the cell will shrink, swell, or remain the same size. None of the substances have a charge. Provide a brief statement explaining your answer.**
 
-a.
+a. Remain the same size. Isotonic solution means water will diffuse and absorb at relatively equal rates.
 
-b.
+b. Swell. Hypotonic solution results in absorption through osmosis.
 
-c.
+c. Swell. Urea is a penetrating solute, meaning that as it moves into the cell and diffuses its concentration gradient, water will follow the pattern and be absorbed. The urea will eventually reach equilibrium, leaving water to continue being absorbed.
 
-d.
+d. Remain the same size. Since urea is penetrative, we look at the concentration of non-penetrating solutes. Since the concentrations of sucrose and *P* are identical, the solution is isotonic and the cell's volume doesn't change.
 
 
-**Question 2. Identify the following anatomical positions and parts on the cross-section of a spinal cord below: dorsal, ventral, white matter, gray matter, lateral and medial.**
+**Question 2. Identify the following anatomical positions and parts on the cross-section of a spinal cord below: dorsal, ventral, white matter, gray matter, lateral and medial.** The dorsal horns are the portions of the spinal cord that are thinner and point up in the picture; the ventral horns are the shorter, stubbier portions pointing down. The white matter is the clump of myelinated axons surrounding the spinal column, indicated in the picture by the outline that looks similar to a brain, and the grey matter is the core of the cord itself, the obviously darker section. The lateral zone of the cord is the outer part, literally the parts furthest from the center, and the medial zone is the center and the parts just surrounding it.
 
 
 **Question 3. In each of the following MRI images, indicate if it is in the sagittal, coronal, or horizontal plane.** In order from left to right: coronal, sagittal, and horizontal.
@@ -37,6 +37,11 @@ d.
 | Na<sup>+</sup> | 50 | 145|
 | Cl<sup>-</sup> | 130 | 25 |
 
+**K<sup>+</sup>**: $`(58 mV/1)(log10(20 mM/115 mM))`$ = $`(58)(log10(0.174))`$ = $`58*-0.759`$ = **-44.048 mV**
+
+**Na<sup>+</sup>**: $`(58 mV/1)(log10(145 mM/20 mM))`$ = $`(58)(log10(7.25))`$ = $`58*0.860`$ = **49.9 mV**
+
+**Cl<sup>-</sup>**: $`(58 mV/1)(log10(25 mM/130 mM))`$ = $`(58)(log10(0.192))`$ = $`58*-0.717`$ = **-41.586 mV**
 
 ### Part 2: Book Questions
 
@@ -67,17 +72,17 @@ d.
 
 **1. How is the action potential propagated along the axon?** Actively and regenerated along the axon.
 
-**2. What is saltatory conduction?** 
+**2. What is saltatory conduction?** Conduction as it occurs in myelinated axons, where the action potential traverses between nodes of Ranvier.
 
-**3. Why do action potentials move only in one direction (towards the pre-synaptic terminal)?**
+**3. Why do action potentials move only in one direction (towards the pre-synaptic terminal)?** Due to voltage-gated sodium ion pathways.
 
-**4. What is meant by spatial and temporal summation?**
+**4. What is meant by spatial and temporal summation?** Spatial summation happens when a decision is made by multiple presynaptic neurons and an instruction is sent from said neurons to a postsynaptic neuron simultaneously; temporal summation is the same process but executed by only one presynaptic neuron.
 
-**5. What are EPSPs and IPSPs?**
+**5. What are EPSPs and IPSPs?** Both are postsynaptic potentials, or PSPs. EPSPS, or excitatory PSPs, temporarily depolarize the postsynaptic membrane, increasing the likelihood of it firing an action potential, while IPSPs, or inhibitory PSPs, are a temporary hyperpolarization and decrease that same likelihood.
 
 
 **Chapter 2.2**
 
-**1. Once an action potential reaches the pre-synaptic terminal, what ion enters to initiate the fusion of the synaptic vesicles?**
+**1. Once an action potential reaches the pre-synaptic terminal, what ion enters to initiate the fusion of the synaptic vesicles?** Calcium ions.
 
-**2. How does the release of neurotransmitter initiate an action potential in the post-synaptic neuron?**
+**2. How does the release of neurotransmitter initiate an action potential in the post-synaptic neuron?** Neurotransmitters bind to receptors on the dendritic end of neurons, typically gated ion channels. This flood of ions either depolarizes or hyperpolarizes a neuron, leading to the increased or decreased likelihood of an action potential.
