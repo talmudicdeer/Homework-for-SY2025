@@ -2,14 +2,14 @@ Alexis Baker
 
 Neurobiology
 
-Homework 1
+Synthesis Homework 1
 
 06/24/2026
 
 
 ### Part 1
 
-**Synthesis/Reflection:** Well, it's my first formal neuroscience course, so there's a whole lot of New. One of the things I've always liked about science is seeing things I learned previously take on new forms in different subjects, and this is no exception. It was really special being able to connect the construction of neurons and the general scope of the nervous system to how I innately see the world, that is, as a gigantic network of recursive systems.
+**Reflection:** Well, it's my first formal neuroscience course, so there's a whole lot of New. One of the things I've always liked about science is seeing things I learned previously take on new forms in different subjects, and this is no exception. It was really special being able to connect the construction of neurons and the general scope of the nervous system to how I innately see the world, that is, as a gigantic network of recursive systems.
 
 
 **Question 1. For each of the following (a – d), indicate whether the cell will shrink, swell, or remain the same size. None of the substances have a charge. Provide a brief statement explaining your answer.**
@@ -34,7 +34,7 @@ d. Remain the same size. Since urea is penetrative, we look at the concentration
 | Ion | Inside (mM) | Outside (mM) |
 |:---:|:-----------:|:------------:|
 | K<sup>+</sup> | 115 | 20 |
-| Na<sup>+</sup> | 50 | 145|
+| Na<sup>+</sup> | 50 | 145 |
 | Cl<sup>-</sup> | 130 | 25 |
 
 **K<sup>+</sup>**: $`(58 mV/1)(log10(20 mM/115 mM))`$ = $`(58)(log10(0.174))`$ = $`58*-0.759`$ = **-44.048 mV**
