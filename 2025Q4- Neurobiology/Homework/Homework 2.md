@@ -31,3 +31,28 @@ Synthesis Homework 2
 **7. Summarize ways drugs can alter pre-synaptic and post-synaptic processes and provide at least one example for each.**
 
 **8. How are the actions of neurotransmitters terminated at the synapse?**
+
+
+**Chapter 5**
+
+**1. Identify and describe the 4 major sensory receptors found in the skin.**
+
+**2. How are Pacinian corpuscles like ogres?**
+
+**3. Describe how a Pacinian corpuscle generates a receptor potential.**
+
+**4. Name and trace the main somatosensory pathway to the brain. Describe its organization and name its main components.**
+
+**5. Where is the primary somatosensory cortex located and how is it organized?**
+
+**6. What is meant by receptive field? Where would you expect to find receptors with small receptive fields? What other characteristic would you expect to find where receptive fields are small?**
+
+**7. How does the behavior of tonic and phasic receptors differ? Where would you expect to find each?**
+
+**8. What is a dermatome? How are dermatomes related to spinal nerves?**
+
+**9. Define pain. Why is pain considered as a positive adaptation?**
+
+**10. How do pain signals travel to the brain? How does this pathway differ from that of light touch?**
+
+**11. If a person suffered the spinal cord injury shown below, describe what sensory deficits would the person have on each side of the body.**
