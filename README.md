@@ -10,7 +10,8 @@ Academic Progress has its own README file.
 # To-Do:
 
 
-## Student-Originated Software
+## Neurobiology
 
 
-ALL ASSIGNMENTS COMPLETE!!!!!!!
+- Quizam #2, due 07/06
+- Homework #3, due 07/09
