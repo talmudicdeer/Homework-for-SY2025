@@ -29,8 +29,11 @@ Synthesis Homework 3
 
 Sweet: Triggered by sugars/sugar-like substances binding to a heterodimer of T1R2 and T1R3 proteins.
 Bitter: Compounds that we are programmed to detect as toxic (whether or not they actually are) bind to a garden variety of T1R2 proteins.
+
 Umami: There's two different signals for umami, at least; one is a variant of the glutamate receptor, and the other is a heterodimer of T1R1 and T1R3 proteins.
+
 Sour: the more straightforward of the two ionotropic receptors. The dominant theory at this moment is that sour-sensitive taste cells contain a modified ion channel protein sensitive to hydrogen ions, which acids release (this is what makes them acids, after all), and which feature an inward flow of protons to depolarize the cell.
+
 Salty: probably the most complex taste receptor. We're not entirely sure how it works, exactly. The most obvious aspect is how taste cells disposed to salt detect it: through sodium ion channels. Sodium ions from salty food enter these channels, depolarize the cell, and release a neurotransmitter. What's less clear is how our taste cells handle the now freed chlorine ions when salt is dissolved.
 
 **2. In what ways are the signaling pathways for olfaction similar to taste? How are they different?** They're both dependent on GPCRs for detection and transmit information to the brain via depolarization of ion channels. The biggest difference between the two is scale. Humans have exponentially more olfactory receptors than taste receptors, leaving far more room for differentiation and particularities.
