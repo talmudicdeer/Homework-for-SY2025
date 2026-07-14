@@ -51,4 +51,6 @@ You could classify this sentence as part of the results, since the next sentence
 
 ### Results
 
-> 
+> Current can be seen to switch repeatedly to different levels. The discrete changes are interpreted as the result of opening and closing of individual channels. This interpretation is based on the very close similarity to single-channel orecordings obtained in artificial membrane systems.
+
+The big one. 
