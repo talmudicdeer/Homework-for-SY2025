@@ -3,8 +3,6 @@
 
 ### Abstract/Introduction
 
-Since this paper lacks a 'true' abstract, I'll be annotating here key terms, the main research question posed in the introductory paragraph, and asking what the study is about and why it's important, as well as some notes about the authors.
-
 > ionic channel associated with the acetylcholine (ACh) receptor at the neuromuscular junction of skeletal muscle fibres
 
 Not really a 'term', but definitely the key concept of the paper and it appears in the first sentence.
@@ -53,4 +51,6 @@ You could classify this sentence as part of the results, since the next sentence
 
 > Current can be seen to switch repeatedly to different levels. The discrete changes are interpreted as the result of opening and closing of individual channels. This interpretation is based on the very close similarity to single-channel orecordings obtained in artificial membrane systems.
 
+Ion channels are definitively proven to exist for the first time. They go on to say that this required meeting several properties known of ion channels. These properties were:
 
+> a correlation with the degree of hypersensitivity of the muscle membrane; an amplitude dependent on menbrane potential as predicted by noise analysis; 
