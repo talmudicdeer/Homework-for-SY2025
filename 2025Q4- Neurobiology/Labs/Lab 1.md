@@ -44,7 +44,7 @@ Due to the concentrations contained therein, Bag 1 should see no meaningful chan
 | 45 | 16.60 | 16.06 | 17.82 | 25.25 | 17.55 |
 | 60 | 16.44 | 16.51 | 17.12 | 25.24 | 18.14 |
 
-![alt text](https://github.com/talmudicdeer/files/blob/main/Changes%20in%20Mass%20of%20Bags%20through%20Osmosis.png "Changes in Mass of Bags through Osmosis")
+![alt text](https://github.com/talmudicdeer/Homework-for-SY2025/blob/main/2025Q4-%20Neurobiology/Labs/Changes%20in%20Mass%20of%20Bags%20through%20Osmosis.png "Changes in Mass of Bags through Osmosis")
 
 Slope was calculated in Google Sheets using `=([cell containing Y2]-[cell containing Y1)/([cell containing X2]-[cell containing X1])`.
 | Bag # | Slope |
