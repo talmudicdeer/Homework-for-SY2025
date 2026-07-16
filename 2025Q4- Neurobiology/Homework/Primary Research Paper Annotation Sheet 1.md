@@ -53,4 +53,12 @@ You could classify this sentence as part of the results, since the next sentence
 
 Ion channels are definitively proven to exist for the first time. They go on to say that this required meeting several properties known of ion channels. These properties were:
 
-> a correlation with the degree of hypersensitivity of the muscle membrane; an amplitude dependent on menbrane potential as predicted by noise analysis; 
+> a correlation with the degree of hypersensitivity of the muscle membrane; an amplitude dependent on menbrane potential as predicted by noise analysis; a mean length or channel open time which should depende on voltage in a characteristic manner; pharmacological specificity with different mean open times for different cholinergic agonists. The experiments bore out all of the abive-mentioned points as outlined below.
+
+They then go into details, of which I will focus on Figure 2. It shows an oscilloscope recording of the current flowing through a patch of membrane. You can clearly see fluctuations in inward and outward current. We then look at Figure 3, which shows a comparison between the charge fluctuations of single-channel currents with different cholinergic agonists. As they say later on:
+
+> Multiple, equally spaced peaks at larger deviations represent the probabilities that either one, two, or three channels are open simultaneously. The peak separation gives the amplitude of the single-channel contribution, which was 3.4 pA for the histogram shown in Fig. 3c.
+
+Figure 3c shows a histogram displaying amplitude of membrane current with frequency of occurrence on the y-axis. It shows a decreasing frequency of increasing values of current, if that description makes sense.
+
+> 
