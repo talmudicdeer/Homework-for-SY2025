@@ -64,4 +64,12 @@ Figure 3c shows a histogram displaying amplitude of membrane current with freque
 
 ### Questions
 
-**Describe the patch clamp technique designed by Neher and Sakmann. What did it allow scientists to do?** 
+**Describe the patch clamp technique designed by Neher and Sakmann. What did it allow scientists to do?** The patch-clamp technique involved applying the tip of a pipette, filled with an agonist in a solution, to a muscle fiber, and then hooking the pipette to a virtual ground that clamps the current to the pipette, preventing leaks, and at the same time measuring the exactly current levels. It allowed scientists to isolate individual ion channels and screen out noise, while using an extremely flexible virtual ground system to measure in the tiny range that they needed.
+
+**The authors recorded from individual acetylcholine receptors (AchR) on frog skeletal muscle. Typically, these receptors are clustered together at the synapse between a motor nerve and skeletal muscle. Why did they denervate the frog muscle?** When muscle fibres are denervated, the concentrations of ACh even out across the fiber, preventing the accumulations that happen at junctions during ennervation that can make it nearly impossible to isolate individual ion channels.
+
+**What was the evidence that the patch clamp technique allowed for the recording of currents flowing through a single receptor?** The electrical charge and charge pulses.
+
+**In the sample recording shown below (not from the paper—from my thesis!), answer the following (figure 2 should help you…)**
+  **a. What is occurring at A? At B?** Outward flowing current/depolarization.
+  **b. What do the lengths of E and F represent? What do their differences tell you about how the AchR functions?** Different values of hyperpolarization. If I interpreted Figure 2 correctly, shorter bouts of hyperpolarization mean a higher(?) presence of ACh around nerve junctions.
