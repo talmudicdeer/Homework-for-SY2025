@@ -61,4 +61,7 @@ They then go into details, of which I will focus on Figure 2. It shows an oscill
 
 Figure 3c shows a histogram displaying amplitude of membrane current with frequency of occurrence on the y-axis. It shows a decreasing frequency of increasing values of current, if that description makes sense.
 
-> 
+
+### Questions
+
+**Describe the patch clamp technique designed by Neher and Sakmann. What did it allow scientists to do?** 
